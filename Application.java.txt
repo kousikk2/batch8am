@@ -15,5 +15,9 @@ public class PrimeExample{
    }      
    if(flag==0)  { System.out.println(n+" is prime number"); }  
   }//end of else  
-}    
+}   
+public class PrimeExample2{    
+static void checkPrime(int n){  
+  int i,m=0,flag=0;      
+  m=n/2;   
 }   
